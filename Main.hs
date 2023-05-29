@@ -2,5 +2,6 @@
 
 --New Code
 
-Main::IO()
-Main = putStrln "hi"
+main::IO()
+main = do 
+         putStrLn "hi"
